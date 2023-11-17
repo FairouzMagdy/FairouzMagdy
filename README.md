@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fairouz.</h1>
 <h3 align="center">A passionate undergraduate backend developer from Egypt.</h3>
 
-- 🌱 I’m currently learning **Flask & Django.**
+- 🌱 I’m currently learning **NodeJS.**
 
 - 📫 How to reach me **fairouzmagdy219@gmail.com**
 
