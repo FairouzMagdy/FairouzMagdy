@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fairouzmagdy219@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WkgEzM9cVOifdckdoKCoNswDU2oOHq_r/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
