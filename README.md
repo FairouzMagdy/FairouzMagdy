@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fairouz</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Natours](https://github.com/FairouzMagdy/natours)
+- 🔭 I’m currently working on [Smart Tour Guide Application](https://github.com/AmrElkfrawy/smart-tour-guide)
 
 - 🌱 I’m currently learning **NodeJs and Express**
-
-- 👯 I’m looking to collaborate on [Smart Tour Guide Application](https://github.com/AmrElkfrawy/smart-tour-guide)
 
 - 📫 How to reach me **fairouzmagdy219@gmail.com**
 
