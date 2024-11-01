@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fairouz</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Smart Tour Guide Application](https://github.com/AmrElkfrawy/smart-tour-guide)
+- 🔭 I’m currently a trainee in Professional Development and BI-infused CRM track at ITI.
 
-- 🌱 I’m currently learning **NodeJs and Express**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **fairouzmagdy219@gmail.com**
 
