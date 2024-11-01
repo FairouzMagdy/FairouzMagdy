@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a trainee in Professional Development and BI-infused CRM track at ITI.
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Web Development with .NET**
 
 - 📫 How to reach me **fairouzmagdy219@gmail.com**
 
